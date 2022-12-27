@@ -1,1 +1,1 @@
-# KST4FunApproximation
+# This demo shows how to use Kolmogorov Superposition Theorem (KST) to approximate continuous functions in two variables. To run the demo, download all files into the same directory and run Benchmark_FacesATT_Demo.m in matlab.
